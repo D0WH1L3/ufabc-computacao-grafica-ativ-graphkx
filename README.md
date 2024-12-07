@@ -14,7 +14,7 @@ Este projeto implementa um jogo de memória na qual o jogador precisa encontrar 
 Para ver o jogo funcionando, [clique aqui](https://youtu.be/nyBvsQ9mdGU).
 
 ## Arquivos
-Consulte a pasta **memorioamat** deste repositório para obter os arquivos do projeto.
+Consulte a pasta **memoriamat** deste repositório para obter os arquivos do projeto.
 O programa é baseado nos seguintes arquivos:
 
 card.cpp
